@@ -4,7 +4,6 @@ public class ex2 {
     public static void main(String[] args) {
         Corgi corgi = new Corgi("Corgi", 10, "Adult Dog","Brown","Candy");
         System.out.println(corgi);
-        //create test for cass husky
         Husky husky = new Husky("Husky", 20, "Puppy","White","Bobik");
         System.out.println(husky);
     }
